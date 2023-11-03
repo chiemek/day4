@@ -125,7 +125,11 @@ button > img {
   main .container {
     padding: 2rem;
     margin: 0;
-    gap: 1.5rem;
+    gap: 1.2rem;
     height: inherit;
+  }
+
+  .container > .second {
+    font-size: 14px;
   }
 }
