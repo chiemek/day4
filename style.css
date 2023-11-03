@@ -126,5 +126,6 @@ button > img {
     padding: 2rem;
     margin: 0;
     gap: 1.5rem;
+    height: inherit;
   }
 }
