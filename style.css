@@ -113,12 +113,14 @@ button > img {
   body main {
     flex-direction: row;
     width: 40vw;
+    height: 60vh;
   }
 
   main > img {
     content: url(./images/image-product-desktop.jpg);
     width: 50%;
     border-radius: 20px 0 0 20px;
+    height: auto;
   }
 
   main .container {
