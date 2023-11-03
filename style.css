@@ -113,23 +113,25 @@ button > img {
   body main {
     flex-direction: row;
     width: 40vw;
-    height: 60vh;
   }
 
   main > img {
     content: url(./images/image-product-desktop.jpg);
     border-radius: 20px 0 0 20px;
-    height: inherit;
+    width: 50%;
+    height: auto;
   }
 
   main .container {
     padding: 2rem;
     margin: 0;
-    gap: 1.2rem;
-    height: inherit;
+    gap: 1.5rem;
+    font-size: 16px;
   }
 
   .container > .second {
-    font-size: 14px;
+    line-height: 1.5rem;
+    font-size: 17px;
+    font-weight: 500;
   }
 }
