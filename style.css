@@ -118,7 +118,7 @@ button > img {
   main > img {
     content: url(./images/image-product-desktop.jpg);
     border-radius: 20px 0 0 20px;
-    width: 20rem;
+    width: 18rem;
 
     height: auto;
   }
